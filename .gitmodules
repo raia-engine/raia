@@ -1,0 +1,9 @@
+[submodule "raia-core"]
+	path = raia-core
+	url = https://github.com/raia-engine/raia-core.git
+[submodule "raia-app"]
+	path = raia-app
+	url = https://github.com/raia-engine/raia-app.git
+[submodule "raia-draw"]
+	path = raia-draw
+	url = https://github.com/raia-engine/raia-draw.git
